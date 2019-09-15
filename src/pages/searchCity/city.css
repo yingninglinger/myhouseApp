@@ -1,0 +1,19 @@
+.cityTitle{
+     line-height: 50px;
+     background:#F8F8F9;
+     text-indent:30px;
+     color:#000;
+     font-weight: bolder;
+     border-bottom: 1px solid #E9EBF3;
+     border-top: 1px solid #E9EBF3;
+}
+
+.cityName{
+
+     line-height: 50px;
+     margin:0 30px;
+     border-bottom: 1px solid #E9EBF3;
+   
+
+
+}

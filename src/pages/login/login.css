@@ -1,0 +1,36 @@
+.logo{
+    width:150px;
+   
+}
+
+.login a{
+    color:#ccc;
+}
+
+.login .am-list-item .am-input-clear {
+    background-color:#E4393C!important;
+}
+
+
+.login .am-list-item.am-input-item{
+    border:1px solid #eee;
+}
+
+.footer{
+    position: fixed;
+    bottom:10px;
+}
+
+.footer .am-checkbox.am-checkbox-checked .am-checkbox-inner {
+    border-color: #E4393C!important;
+    background: #E4393C;
+}
+
+.footer a {
+    color: #ccc;
+}
+
+
+html:not([data-scale]) .am-button-primary::before{
+    border:1px solid #E4393C!important;
+}

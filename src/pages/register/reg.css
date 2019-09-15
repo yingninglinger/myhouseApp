@@ -1,0 +1,18 @@
+.reg{
+    padding-top:30px;
+}
+
+
+.reg a{
+    color:gray;
+}
+
+
+.reg .am-checkbox.am-checkbox-checked .am-checkbox-inner {
+    border-color: #E4393C!important;
+    background: #E4393C;
+}
+
+.am-list-item .am-input-control .fake-input-container .fake-input{
+    text-align: left!important;
+}
